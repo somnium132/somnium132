@@ -1,10 +1,9 @@
 ## Hi, I'm Kier !
 
 🧠 Information Technology student at The Polytechnic University Of The Philippines<br/>
-💻 Aspiring to become a data enineer<br/>
+💻 Aspiring to become a data engineer<br/>
 📹 I also make videos as a hobby!<br/>
 💫 I'm currently seeking for internships! <br/>
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/somnium5228) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Kier.Bardelosa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kierrb_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kierbardelosa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@5106kier) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kierryuu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kier.bardelosa02@gmail.com) 
@@ -24,9 +23,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=somnium132&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=somnium132&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
