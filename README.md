@@ -18,8 +18,4 @@
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/somnium132/somnium132/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/somnium132/somnium132/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/somnium132/somnium132/output/github-snake.svg" />
-</picture>
+![snake gif](https://github.com/somnium132/somnium132/blob/output/github-contribution-grid-snake.svg)
