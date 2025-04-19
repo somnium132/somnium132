@@ -27,3 +27,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=somnium132&icon=5&color=1)](https://visitcount.itsvg.in)
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/somnium132/somnium132/output/snake.svg" alt="Snake animation" />
+
+###
