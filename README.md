@@ -1,6 +1,6 @@
 # Hello, I'm Kier!
 
-🧠 Information Technology student at The Polytechnic University of The Philippines<br/>
+🧠 Information Technology student at The Polytechnic University of The Philippines 🧗‍♂️😄🤩🤖😛 <br/> 
 💻 Aspiring to become a data engineer<br/>
 📹 I also make videos as a hobby!<br/>
 💫 I'm currently seeking for internships! <br/>
