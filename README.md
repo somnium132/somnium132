@@ -45,7 +45,7 @@
       <sub>HACKATHON CHAMPION</sub>
     </td>
     <td width="25%" align="center">
-      <h3>3x <sup>↗</sup></h3>
+      <h3>2x <sup>↗</sup></h3>
       <sub>AWS & DATACAMP SCHOLAR</sub>
     </td>
     <td width="25%" align="center">
@@ -66,7 +66,7 @@
 <table>
   <tr>
     <td>
-      <b><a href="https://github.com/somnium132">SurveyLang</a></b> — <i>1st Place Champion, HACKATIVE: The Algorithm Arena</i><br/>
+      <b>SurveyLang</b> — <i>1st Place Champion, HACKATIVE: The Algorithm Arena</i><br/>
       University-exclusive points-based survey exchange platform with PUP webmail verification and automated point crediting.<br/>
       <sub><code>React</code> &nbsp;<code>Node.js</code> &nbsp;<code>Express</code> &nbsp;<code>MongoDB</code> &nbsp;<code>Figma</code> &nbsp;<code>Vercel</code></sub>
     </td>
@@ -76,7 +76,7 @@
   </tr>
   <tr>
     <td>
-      <b><a href="https://github.com/somnium132">SkillSwap PUP</a></b> — <i>Top 4 Nationally, Solar Power Hackathon</i><br/>
+      <b>SkillSwap PUP</b> — <i>Top 4 Nationally, Solar Power Hackathon</i><br/>
       Peer-to-peer collaborative task and skill exchange system built specifically for university students.<br/>
       <sub><code>Python</code> &nbsp;<code>FastAPI</code> &nbsp;<code>AWS Boto3</code> &nbsp;<code>Uvicorn</code> &nbsp;<code>Pytest</code></sub>
     </td>
@@ -183,11 +183,6 @@ multimedia     /  DaVinci Resolve · Adobe Photoshop · Adobe Illustrator · Can
   <tr>
     <td><b>AWS re/Start Cloud Scholar</b></td>
     <td>Edukasyon.ph / AWS (12-Week Intensive Cloud Immersion)</td>
-    <td align="right"><code>active ↗</code></td>
-  </tr>
-  <tr>
-    <td><b>AWS AI/ML Scholar</b></td>
-    <td>Amazon Web Services (Advanced ML/AI Pathway)</td>
     <td align="right"><code>active ↗</code></td>
   </tr>
   <tr>
