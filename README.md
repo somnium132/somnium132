@@ -113,7 +113,7 @@
   <tr>
     <td>
       <b>ELITE Website</b> — <i>Official Organization Website (Under Construction)</i><br/>
-      Official web experience for PUP Santa Rosa's IT organization featuring cinematic liquid transitions and interactive panel.<br/>
+      Official web experience for PUP Santa Rosa's IT organization,ELITE.<br/>
       <sub><code>Next.js</code> &nbsp;<code>React</code> &nbsp;<code>TypeScript</code> &nbsp;<code>Tailwind CSS</code> &nbsp;<code>Framer Motion</code></sub>
     </td>
     <td align="right" valign="top">
