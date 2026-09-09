@@ -13,20 +13,17 @@
     </td>
     <td width="64%" valign="middle">
       <h1>Kier Bardelosa</h1>
-      
-      <!-- Minimalist Monospace Typewriter -->
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=C0C0C0&center=false&vCenter=true&width=480&lines=%3E+ui%2Fux+designer+%26+front-end+developer;%3E+aspiring+cloud+engineer;%3E+aws+re%2Fstart+scholar+%7C+datacamp+sql+associate;%3E+turning+rough+ideas+into+real+products" />
         <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=333333&center=false&vCenter=true&width=480&lines=%3E+ui%2Fux+designer+%26+front-end+developer;%3E+aspiring+cloud+engineer;%3E+aws+re%2Fstart+scholar+%7C+datacamp+sql+associate;%3E+turning+rough+ideas+into+real+products" />
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=C0C0C0&center=false&vCenter=true&width=480&lines=%3E+ui%2Fux+designer+%26+front-end+developer;%3E+aspiring+cloud+engineer;%3E+aws+re%2Fstart+scholar+%7C+datacamp+sql+associate;%3E+turning+rough+ideas+into+real+products" alt="Typing SVG" />
       </picture>
-
       <p>
-        I'm a UI/UX designer, front-end developer, and aspiring cloud engineer.
+        I'm a UI/UX designer, front-end developer, and aspiring cloud engineer.<br/>
         Currently pursuing Information Technology at the Polytechnic University of the Philippines.
       </p>
       <p>
-        Right now I'm building modern cloud solutions, scalable architectures, and web apps.
+        Right now I'm building modern cloud solutions, scalable architectures, and web apps.<br/>
         I love turning rough ideas into intuitive things people actually use.
       </p>
       <p>
