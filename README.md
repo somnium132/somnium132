@@ -256,5 +256,15 @@ cd personal-portfolio && npm install && npm run dev
 <br/>
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/somnium132/somnium132/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/somnium132/somnium132/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/somnium132/somnium132/output/github-snake.svg" width="90%" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
   <sub>designed & built with an editorial monochrome aesthetic · kier bardelosa</sub>
 </div>
