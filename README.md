@@ -128,7 +128,7 @@
       <sub>Spearheaded visual identity and mascot creation; authored branding guidelines and produced 15+ event branding kits across 3 member schools.</sub>
     </td>
     <td align="right" valign="top">
-      <code>2024 — present</code>
+      <code>2025 — present</code>
     </td>
   </tr>
   <tr>
@@ -138,7 +138,7 @@
       <sub>Architected centralized design asset libraries; collaborating in study groups focused on AWS infrastructure, cloud data pipelines, and scalable backends.</sub>
     </td>
     <td align="right" valign="top">
-      <code>2024 — present</code>
+      <code>2025 — present</code>
     </td>
   </tr>
   <tr>
