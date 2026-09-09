@@ -19,12 +19,11 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=C0C0C0&center=false&vCenter=true&width=480&lines=%3E+ui%2Fux+designer+%26+front-end+developer;%3E+aspiring+cloud+engineer;%3E+aws+re%2Fstart+scholar+%7C+datacamp+sql+associate;%3E+turning+rough+ideas+into+real+products" alt="Typing SVG" />
       </picture>
       <p>
-        I'm a UI/UX designer, front-end developer, and aspiring cloud engineer.<br/>
-        Currently pursuing Information Technology at the Polytechnic University of the Philippines.
+        UI/UX designer, front-end developer, and aspiring cloud engineer.<br/>
+        BS Information Technology at Polytechnic University of the Philippines.
       </p>
       <p>
-        Right now I'm building modern cloud solutions, scalable architectures, and web apps.<br/>
-        I love turning rough ideas into intuitive things people actually use.
+        Building modern cloud solutions, scalable architectures, and intuitive web apps.
       </p>
       <p>
         <a href="https://kierbardelosa-portfolio.vercel.app/">portfolio ↗</a> &nbsp;/&nbsp;
@@ -62,9 +61,9 @@
 <table>
   <tr>
     <td>
-      <b>SurveyLang</b> — <i>1st Place Champion, HACKATIVE: The Algorithm Arena</i><br/>
-      University-exclusive points-based survey exchange platform with PUP webmail verification and automated point crediting.<br/>
-      <sub><code>React</code> &nbsp;<code>Node.js</code> &nbsp;<code>Express</code> &nbsp;<code>MongoDB</code> &nbsp;<code>Figma</code> &nbsp;<code>Vercel</code></sub>
+      <b>SurveyLang</b> — <i>1st Place Champion, HACKATIVE</i><br/>
+      Student survey exchange platform with webmail verification.<br/>
+      <sub><code>React</code> &nbsp;<code>Node.js</code> &nbsp;<code>Express</code> &nbsp;<code>MongoDB</code> &nbsp;<code>Figma</code></sub>
     </td>
     <td align="right" valign="top">
       <code>2025 ↗</code>
@@ -73,8 +72,8 @@
   <tr>
     <td>
       <b>SkillSwap PUP</b> — <i>Top 4 Nationally, Solar Power Hackathon</i><br/>
-      Peer-to-peer collaborative task and skill exchange system built specifically for university students.<br/>
-      <sub><code>Python</code> &nbsp;<code>FastAPI</code> &nbsp;<code>AWS Boto3</code> &nbsp;<code>Uvicorn</code> &nbsp;<code>Pytest</code></sub>
+      Peer-to-peer student task and skill exchange platform.<br/>
+      <sub><code>Python</code> &nbsp;<code>FastAPI</code> &nbsp;<code>AWS Boto3</code> &nbsp;<code>Uvicorn</code></sub>
     </td>
     <td align="right" valign="top">
       <code>2025 ↗</code>
@@ -83,8 +82,8 @@
   <tr>
     <td>
       <b><a href="https://frostbyte-hackathon-dp-blast.vercel.app/">FROSTBYTE DP Blast</a></b> — <i>Lead Developer & UI Designer</i><br/>
-      Official client-side image rendering engine for Santa Rosa City's youth innovation hackathon DP blast.<br/>
-      <sub><code>HTML5 Canvas API</code> &nbsp;<code>Next.js</code> &nbsp;<code>React</code> &nbsp;<code>Tailwind CSS</code></sub>
+      Client-side avatar frame generator for hackathon participants.<br/>
+      <sub><code>HTML5 Canvas</code> &nbsp;<code>Next.js</code> &nbsp;<code>React</code> &nbsp;<code>Tailwind CSS</code></sub>
     </td>
     <td align="right" valign="top">
       <code>2026 ↗</code>
@@ -93,8 +92,8 @@
   <tr>
     <td>
       <b><a href="https://kierbardelosa-portfolio.vercel.app/">Personal Portfolio</a></b> — <i>Interactive AI Showcase</i><br/>
-      Studio portfolio featuring a conversational Google Gemini AI companion, real-time Supabase guestbook, and Framer Motion.<br/>
-      <sub><code>Next.js 16</code> &nbsp;<code>React 19</code> &nbsp;<code>TypeScript</code> &nbsp;<code>Tailwind</code> &nbsp;<code>Supabase</code> &nbsp;<code>Gemini AI</code></sub>
+      Minimalist studio portfolio with Gemini AI and guestbook.<br/>
+      <sub><code>Next.js 16</code> &nbsp;<code>React 19</code> &nbsp;<code>TypeScript</code> &nbsp;<code>Tailwind</code> &nbsp;<code>Supabase</code></sub>
     </td>
     <td align="right" valign="top">
       <code>2026 ↗</code>
@@ -102,8 +101,8 @@
   </tr>
   <tr>
     <td>
-      <b>AWS SS Website</b> — <i>AWS Student Community Day: South Summit 2026</i><br/>
-      Official event web portal for South Luzon featuring a dynamic theme engine and branded Amazon Q AI assistant.<br/>
+      <b>AWS SS Website</b> — <i>AWS Community Day: South Summit 2026</i><br/>
+      Official South Summit event web portal with Amazon Q AI.<br/>
       <sub><code>HTML5</code> &nbsp;<code>CSS3</code> &nbsp;<code>JavaScript</code> &nbsp;<code>Amazon Q AI</code></sub>
     </td>
     <td align="right" valign="top">
@@ -112,8 +111,8 @@
   </tr>
   <tr>
     <td>
-      <b>ELITE Website</b> — <i>Official Organization Website (Under Construction)</i><br/>
-      Official web experience for PUP Santa Rosa's IT organization featuring cinematic liquid transitions and interactive panel.<br/>
+      <b>ELITE Website</b> — <i>Official Organization Portal (Under Construction)</i><br/>
+      Official PUP IT organization website with liquid transitions.<br/>
       <sub><code>Next.js</code> &nbsp;<code>React</code> &nbsp;<code>TypeScript</code> &nbsp;<code>Tailwind CSS</code> &nbsp;<code>Framer Motion</code></sub>
     </td>
     <td align="right" valign="top">
@@ -128,23 +127,23 @@
   <table>
     <tr>
       <td width="25%"><b>SurveyLang</b></td>
-      <td>Enforces single-institution authentication via university webmail OTP; implements Qualtrics & Google Forms webhook integration for crediting.</td>
+      <td>Webmail OTP authentication with form webhook integration.</td>
     </tr>
     <tr>
       <td><b>SkillSwap PUP</b></td>
-      <td>Asynchronous REST controllers built on FastAPI; integrates AWS Boto3 SDK for media assets and automated Pytest test coverage.</td>
+      <td>FastAPI asynchronous REST controllers with AWS Boto3 SDK.</td>
     </tr>
     <tr>
       <td><b>FROSTBYTE DP</b></td>
-      <td>Pure client-side image processing engine using the HTML5 Canvas API, allowing high-resolution avatar overlay exports at 300 DPI with zero backend compute.</td>
+      <td>Client-side Canvas rendering producing 300 DPI exports.</td>
     </tr>
     <tr>
       <td><b>AWS SS Website</b></td>
-      <td>Lightweight zero-build deployment architecture with CSS custom properties and Amazon Q chatbot integration.</td>
+      <td>Zero-build static architecture with Amazon Q chatbot.</td>
     </tr>
     <tr>
       <td><b>ELITE Website</b></td>
-      <td>GPU-accelerated liquid page wipe transitions built on Framer Motion with hierarchical officer directory.</td>
+      <td>GPU-accelerated liquid page transitions with officer directory.</td>
     </tr>
   </table>
 </details>
@@ -158,7 +157,7 @@
     <td>
       <b>FlyRank AI</b><br/>
       <i>Front-End AI Engineer Intern</i><br/>
-      <sub>Building responsive, mobile-first e-commerce storefronts with React, Next.js, and Tailwind CSS using AI-assisted engineering workflows.</sub>
+      <sub>Responsive storefronts with React, Next.js, and Tailwind CSS.</sub>
     </td>
     <td align="right" valign="top">
       <code>2026 — present</code>
@@ -168,7 +167,7 @@
     <td>
       <b>AWS Learning Club — Polar</b><br/>
       <i>Creatives Director & Co-Founder</i><br/>
-      <sub>Spearheaded visual identity and mascot creation; authored branding guidelines and produced 15+ event branding kits across 3 member schools.</sub>
+      <sub>Brand identity, mascot design, and event kits across 3 schools.</sub>
     </td>
     <td align="right" valign="top">
       <code>2025 — present</code>
@@ -178,7 +177,7 @@
     <td>
       <b>AWS Cloud Club — PUP</b><br/>
       <i>Creatives Secretary & Cloud Data Member</i><br/>
-      <sub>Architected centralized design asset libraries; collaborating in study groups focused on AWS infrastructure, cloud data pipelines, and scalable backends.</sub>
+      <sub>Centralized design asset libraries and cloud data architectures.</sub>
     </td>
     <td align="right" valign="top">
       <code>2025 — present</code>
@@ -188,7 +187,7 @@
     <td>
       <b>Google Developer Groups on Campus — PUP</b><br/>
       <i>UI/UX Cadet</i><br/>
-      <sub>Engaged in structured mentorship on human-centered design principles, accessibility standards, and design system architectures.</sub>
+      <sub>Human-centered design principles and design systems.</sub>
     </td>
     <td align="right" valign="top">
       <code>2026 — present</code>
@@ -248,12 +247,12 @@ multimedia     /  DaVinci Resolve · Adobe Photoshop · Adobe Illustrator · Can
   </tr>
   <tr>
     <td><b>AWS re/Start Cloud Scholar</b></td>
-    <td>Edukasyon.ph / AWS (12-Week Intensive Cloud Immersion)</td>
+    <td>Edukasyon.ph / AWS · 12-Week Cloud Immersion</td>
     <td align="right"><code>active ↗</code></td>
   </tr>
   <tr>
     <td><b>AWS Certified Cloud Practitioner</b></td>
-    <td>AWS (CLF-C02)</td>
+    <td>AWS · CLF-C02</td>
     <td align="right"><code>in progress ↗</code></td>
   </tr>
 </table>
