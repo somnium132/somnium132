@@ -13,6 +13,14 @@
     </td>
     <td width="64%" valign="middle">
       <h1>Kier Bardelosa</h1>
+      
+      <!-- Minimalist Monospace Typewriter -->
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=C0C0C0&center=false&vCenter=true&width=480&lines=%3E+ui%2Fux+designer+%26+front-end+developer;%3E+aspiring+cloud+engineer;%3E+aws+re%2Fstart+scholar+%7C+datacamp+sql+associate;%3E+turning+rough+ideas+into+real+products" />
+        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=333333&center=false&vCenter=true&width=480&lines=%3E+ui%2Fux+designer+%26+front-end+developer;%3E+aspiring+cloud+engineer;%3E+aws+re%2Fstart+scholar+%7C+datacamp+sql+associate;%3E+turning+rough+ideas+into+real+products" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=C0C0C0&center=false&vCenter=true&width=480&lines=%3E+ui%2Fux+designer+%26+front-end+developer;%3E+aspiring+cloud+engineer;%3E+aws+re%2Fstart+scholar+%7C+datacamp+sql+associate;%3E+turning+rough+ideas+into+real+products" alt="Typing SVG" />
+      </picture>
+
       <p>
         I'm a UI/UX designer, front-end developer, and aspiring cloud engineer.
         Currently pursuing Information Technology at the Polytechnic University of the Philippines.
@@ -26,6 +34,10 @@
         <a href="https://linkedin.com/in/kierbardelosa">linkedin ↗</a> &nbsp;/&nbsp;
         <a href="https://github.com/somnium132">github ↗</a> &nbsp;/&nbsp;
         <a href="mailto:kier.bardelosa02@gmail.com">email ↗</a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/status-seeking_internships-000000?style=flat-square&logo=target&logoColor=white" alt="Status" />
+        <img src="https://komarev.com/ghpvc/?username=somnium132&label=reads&color=000000&style=flat-square" alt="Reads" />
       </p>
     </td>
   </tr>
@@ -106,6 +118,25 @@
   </tr>
 </table>
 
+<details>
+  <summary><sub><b>▸ 01.1 — architectural highlights & design notes</b> <i>(click to expand)</i></sub></summary>
+  <br/>
+  <table>
+    <tr>
+      <td width="25%"><b>SurveyLang</b></td>
+      <td>Enforces single-institution authentication via university webmail OTP; implements Qualtrics & Google Forms webhook integration for crediting.</td>
+    </tr>
+    <tr>
+      <td><b>SkillSwap PUP</b></td>
+      <td>Asynchronous REST controllers built on FastAPI; integrates AWS Boto3 SDK for media assets and automated Pytest test coverage.</td>
+    </tr>
+    <tr>
+      <td><b>FROSTBYTE DP</b></td>
+      <td>Pure client-side image processing engine using the HTML5 Canvas API, allowing high-resolution avatar overlay exports at 300 DPI with zero backend compute.</td>
+    </tr>
+  </table>
+</details>
+
 <br/>
 
 ### 02 — experience & leadership
@@ -165,6 +196,29 @@ data & storage /  SQL · PostgreSQL · Supabase · MongoDB · Pandas · NumPy
 multimedia     /  DaVinci Resolve · Adobe Photoshop · Adobe Illustrator · Canva
 ```
 
+<details>
+  <summary><sub><b>▸ 03.1 — hardware, environment & gear</b> <i>(click to expand)</i></sub></summary>
+  <br/>
+  <table>
+    <tr>
+      <td width="25%"><b>editor & fonts</b></td>
+      <td>Visual Studio Code · Dracula / GitHub Dark Monochrome · Fira Code & Geist Mono</td>
+    </tr>
+    <tr>
+      <td><b>terminals & shell</b></td>
+      <td>Windows Terminal · PowerShell & WSL2 (Ubuntu Linux) · Git CLI</td>
+    </tr>
+    <tr>
+      <td><b>design suite</b></td>
+      <td>Figma · Adobe Photoshop · Adobe Illustrator · DaVinci Resolve</td>
+    </tr>
+    <tr>
+      <td><b>cloud ecosystem</b></td>
+      <td>Amazon Web Services (AWS) · Vercel Edge · Supabase PostgreSQL</td>
+    </tr>
+  </table>
+</details>
+
 <br/>
 
 ### 04 — credentials
@@ -197,12 +251,30 @@ multimedia     /  DaVinci Resolve · Adobe Photoshop · Adobe Illustrator · Can
 ### 05 — activity
 
 <div align="center">
+  <!-- Monochrome GitHub Streak -->
+  <a href="https://github.com/somnium132">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=somnium132&background=0D1117&border=30363D&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=E0E0E0&currStreakLabel=FFFFFF&sideLabels=A0A0A0&dates=808080&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Monochrome Snake Game -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/somnium132/somnium132/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/somnium132/somnium132/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/somnium132/somnium132/output/github-snake.svg" width="90%" />
   </picture>
 </div>
+
+<br/>
+
+### 06 — terminal run
+
+```bash
+# clone & explore my interactive portfolio locally
+git clone https://github.com/somnium132/personal-portfolio.git
+cd personal-portfolio && npm install && npm run dev
+```
 
 <br/>
 
