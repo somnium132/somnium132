@@ -277,9 +277,3 @@ cd personal-portfolio && npm install && npm run dev
     <img alt="github-snake" src="https://raw.githubusercontent.com/somnium132/somnium132/output/github-snake.svg" width="90%" />
   </picture>
 </div>
-
-<br/>
-
-<div align="center">
-  <sub>designed & built with an editorial monochrome aesthetic · kier bardelosa</sub>
-</div>
