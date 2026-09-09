@@ -23,8 +23,8 @@
         Currently pursuing Information Technology at the Polytechnic University of the Philippines.
       </p>
       <p>
-        Right now I'm building modern cloud solutions, scalable architectures, and web apps.<br/>
-        I love turning rough ideas into intuitive things people actually use.
+        Right now I'm building modern cloud solutions, scalable architectures, and web apps.I love turning rough ideas into intuitive things people actually use.<br/>
+        
       </p>
       <p>
         <a href="https://kierbardelosa-portfolio.vercel.app/">portfolio ↗</a> &nbsp;/&nbsp;
