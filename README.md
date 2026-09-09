@@ -34,7 +34,7 @@
       </p>
       <p>
         <img src="https://img.shields.io/badge/status-seeking_internships-000000?style=flat-square&logo=target&logoColor=white" alt="Status" />
-        <img src="https://komarev.com/ghpvc/?username=somnium132&label=reads&color=000000&style=flat-square" alt="Reads" />
+        <img src="https://komarev.com/ghpvc/?username=somnium132&label=reads&color=000000&style=flat-square&base=200" alt="Reads" />
       </p>
     </td>
   </tr>
