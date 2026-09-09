@@ -103,7 +103,7 @@
   <tr>
     <td>
       <b>AWS SS Website</b> — <i>AWS Student Community Day: South Summit 2026</i><br/>
-      Official event web portal for South Luzon featuring a dynamic theme engine and branded Amazon Q AI assistant.<br/>
+      Official event web portal for AWS Student Comunity day South Luzon.<br/>
       <sub><code>HTML5</code> &nbsp;<code>CSS3</code> &nbsp;<code>JavaScript</code> &nbsp;<code>Amazon Q AI</code></sub>
     </td>
     <td align="right" valign="top">
@@ -168,7 +168,7 @@
     <td>
       <b>AWS Learning Club — Polar</b><br/>
       <i>Creatives Director & Co-Founder</i><br/>
-      <sub>Spearheaded visual identity and mascot creation; authored branding guidelines and produced 15+ event branding kits across 3 member schools.</sub>
+      <sub>Spearheaded visual identity and mascot creation; authored branding guidelines and produced 35+ event branding.</sub>
     </td>
     <td align="right" valign="top">
       <code>2025 — present</code>
@@ -178,7 +178,7 @@
     <td>
       <b>AWS Cloud Club — PUP</b><br/>
       <i>Creatives Secretary & Cloud Data Member</i><br/>
-      <sub>Architected centralized design asset libraries; collaborating in study groups focused on AWS infrastructure, cloud data pipelines, and scalable backends.</sub>
+      <sub>Architected centralized design asset libraries; collaborating in workshops focused on AWS infrastructure, cloud data pipelines, and scalable backends.</sub>
     </td>
     <td align="right" valign="top">
       <code>2025 — present</code>
