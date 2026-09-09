@@ -43,26 +43,13 @@
 <br/>
 
 <!-- ==================== METRIC BAR ==================== -->
-<table width="100%">
-  <tr>
-    <td width="25%" align="center">
-      <h3>1.35 <sup>↗</sup></h3>
-      <sub>GWA · PRESIDENT'S LIST</sub>
-    </td>
-    <td width="25%" align="center">
-      <h3>1st <sup>↗</sup></h3>
-      <sub>HACKATHON CHAMPION</sub>
-    </td>
-    <td width="25%" align="center">
-      <h3>2x <sup>↗</sup></h3>
-      <sub>AWS & DATACAMP SCHOLAR</sub>
-    </td>
-    <td width="25%" align="center">
-      <h3>PUP <sup>↗</sup></h3>
-      <sub>BSIT · SANTA ROSA</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./metrics-light.svg" />
+    <img src="./metrics-dark.svg" width="100%" alt="Key Metrics" />
+  </picture>
+</div>
 
 <div align="center">
   <sub>· &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; · &nbsp; ·</sub>

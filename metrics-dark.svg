@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 80" width="100%" height="80" fill="none">
+  <style>
+    .val { font-family: 'Geist Mono', 'Fira Code', 'SF Mono', Consolas, monospace; font-size: 24px; font-weight: 700; fill: #ffffff; }
+    .lbl { font-family: 'Geist Mono', 'Fira Code', 'SF Mono', Consolas, monospace; font-size: 11px; font-weight: 500; fill: #8b949e; letter-spacing: 1.2px; text-transform: uppercase; }
+    .arr { stroke: #8b949e; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+    .div { stroke: #30363d; stroke-width: 1; stroke-dasharray: 3 3; }
+  </style>
+
+  <!-- Metric 1: 1.35 GWA -->
+  <g>
+    <text x="100" y="32" text-anchor="middle" class="val">1.35</text>
+    <g transform="translate(136, 17)">
+      <path d="M 0 7 L 7 0 M 7 0 L 2 0 M 7 0 L 7 5" class="arr" />
+    </g>
+    <text x="100" y="58" text-anchor="middle" class="lbl">GWA · PRESIDENT'S LIST</text>
+  </g>
+
+  <line x1="200" y1="12" x2="200" y2="68" class="div" />
+
+  <!-- Metric 2: 1st Hackathon -->
+  <g>
+    <text x="300" y="32" text-anchor="middle" class="val">1st</text>
+    <g transform="translate(328, 17)">
+      <path d="M 0 7 L 7 0 M 7 0 L 2 0 M 7 0 L 7 5" class="arr" />
+    </g>
+    <text x="300" y="58" text-anchor="middle" class="lbl">HACKATHON CHAMPION</text>
+  </g>
+
+  <line x1="400" y1="12" x2="400" y2="68" class="div" />
+
+  <!-- Metric 3: 2x Scholar -->
+  <g>
+    <text x="500" y="32" text-anchor="middle" class="val">2x</text>
+    <g transform="translate(522, 17)">
+      <path d="M 0 7 L 7 0 M 7 0 L 2 0 M 7 0 L 7 5" class="arr" />
+    </g>
+    <text x="500" y="58" text-anchor="middle" class="lbl">AWS &amp; DATACAMP SCHOLAR</text>
+  </g>
+
+  <line x1="600" y1="12" x2="600" y2="68" class="div" />
+
+  <!-- Metric 4: PUP BSIT -->
+  <g>
+    <text x="700" y="32" text-anchor="middle" class="val">PUP</text>
+    <g transform="translate(730, 17)">
+      <path d="M 0 7 L 7 0 M 7 0 L 2 0 M 7 0 L 7 5" class="arr" />
+    </g>
+    <text x="700" y="58" text-anchor="middle" class="lbl">BSIT · SANTA ROSA</text>
+  </g>
+</svg>
