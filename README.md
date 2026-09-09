@@ -245,27 +245,7 @@ multimedia     /  DaVinci Resolve · Adobe Photoshop · Adobe Illustrator · Can
 
 <br/>
 
-### 05 — activity
-
-<div align="center">
-  <!-- Monochrome GitHub Streak -->
-  <a href="https://github.com/somnium132">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=somnium132&background=0D1117&border=30363D&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=E0E0E0&currStreakLabel=FFFFFF&sideLabels=A0A0A0&dates=808080&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Monochrome Snake Game -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/somnium132/somnium132/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/somnium132/somnium132/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/somnium132/somnium132/output/github-snake.svg" width="90%" />
-  </picture>
-</div>
-
-<br/>
-
-### 06 — terminal run
+### 05 — terminal run
 
 ```bash
 # clone & explore my interactive portfolio locally
