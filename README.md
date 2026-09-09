@@ -62,7 +62,7 @@
 <table>
   <tr>
     <td>
-      <b>SurveyLang</b> — <i>1st Place Champion, HACKATIVE: The Algorithm Arena</i><br/>
+      <b>SurveyLang</b> — <i>Champion, HACKATIVE: The Algorithm Arena</i><br/>
       University-exclusive points-based survey exchange platform with PUP webmail verification and automated point crediting.<br/>
       <sub><code>React</code> &nbsp;<code>Node.js</code> &nbsp;<code>Express</code> &nbsp;<code>MongoDB</code> &nbsp;<code>Figma</code> &nbsp;<code>Vercel</code></sub>
     </td>
@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td>
-      <b>SkillSwap PUP</b> — <i>Top 4 Nationally, Solar Power Hackathon</i><br/>
+      <b>SkillSwap PUP</b> — <i>Top 4, Solar Power Hackathon</i><br/>
       Peer-to-peer collaborative task and skill exchange system built specifically for university students.<br/>
       <sub><code>Python</code> &nbsp;<code>FastAPI</code> &nbsp;<code>AWS Boto3</code> &nbsp;<code>Uvicorn</code> &nbsp;<code>Pytest</code></sub>
     </td>
