@@ -100,6 +100,26 @@
       <code>2026 ↗</code>
     </td>
   </tr>
+  <tr>
+    <td>
+      <b>AWS SS Website</b> — <i>AWS Student Community Day: South Summit 2026</i><br/>
+      Official event web portal for South Luzon featuring a dynamic theme engine and branded Amazon Q AI assistant.<br/>
+      <sub><code>HTML5</code> &nbsp;<code>CSS3</code> &nbsp;<code>JavaScript</code> &nbsp;<code>Amazon Q AI</code></sub>
+    </td>
+    <td align="right" valign="top">
+      <code>2026 ↗</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>ELITE Website</b> — <i>Official Organization Website (Under Construction)</i><br/>
+      Official web experience for PUP Santa Rosa's IT organization featuring cinematic liquid transitions and interactive panel.<br/>
+      <sub><code>Next.js</code> &nbsp;<code>React</code> &nbsp;<code>TypeScript</code> &nbsp;<code>Tailwind CSS</code> &nbsp;<code>Framer Motion</code></sub>
+    </td>
+    <td align="right" valign="top">
+      <code>in progress ↗</code>
+    </td>
+  </tr>
 </table>
 
 <details>
@@ -117,6 +137,14 @@
     <tr>
       <td><b>FROSTBYTE DP</b></td>
       <td>Pure client-side image processing engine using the HTML5 Canvas API, allowing high-resolution avatar overlay exports at 300 DPI with zero backend compute.</td>
+    </tr>
+    <tr>
+      <td><b>AWS SS Website</b></td>
+      <td>Lightweight zero-build deployment architecture with CSS custom properties and Amazon Q chatbot integration.</td>
+    </tr>
+    <tr>
+      <td><b>ELITE Website</b></td>
+      <td>GPU-accelerated liquid page wipe transitions built on Framer Motion with hierarchical officer directory.</td>
     </tr>
   </table>
 </details>
